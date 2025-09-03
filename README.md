@@ -6,3 +6,7 @@ This project relies on several key open-source components. The official document
 
 * **Influxdata Documentation:** InfluxData plataform.
   [Telegraf data collection and InfluxDB storage](https://docs.influxdata.com/platform/)
+
+* **Influxdata Plugin Set Up:** Plugins instructions.
+  [Exced & MQTT Consumer Input Plugin](https://github.com/influxdata/telegraf/blob/master/docs/DATA_FORMATS_INPUT.md)
+
